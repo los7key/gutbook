@@ -20,14 +20,14 @@ First, let's think about what an actual garden is.  Generally, gardens have thes
 * Sometimes a garden can be fun and whimsical or it could be a source of food
 * A garden is never really "done"
 * Weeds can take over if left unattended (See the enormous gap in my blog posts)
-* A garden can be very personal and private, or shared with the public
+* A garden can be very personal and private or shared with the public
 * They require attention and love
 * It can be a great place for reflection and contemplation
 * There is no right or wrong way to do it
 
-Do you see how this can all be applied to the digital world?  Basically what I'm saying is, that this isn't a blog or wiki or website, it's all of them! This is a place to grow ideas and share information.  Pretty cliché, but I feel like it can truly be anything you want it to be, your imagination is the only limit. &#x20;
+Do you see how this can all be applied to the digital world?  Basically what I'm saying is, that this isn't a blog or wiki or website, it's all of them! This is a place to grow ideas and share information.  Pretty cliché, but I feel like it can truly be anything I want it to be, my imagination is the only limit. &#x20;
 
-So this is it, this my digital garden.  Who would've thought I'd be a gardener one day?
+So this is it, this is my digital garden.  Who would've thought I'd be a gardener one day?
 
 
 
