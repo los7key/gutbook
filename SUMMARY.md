@@ -16,10 +16,7 @@
 
 ## Technology
 
+* [Security](technology/security/README.md)
+  * [Binary Exploitation](technology/security/binary-exploitation.md)
 * [Web](technology/web/README.md)
   * [How my site works](technology/web/how-my-site-works.md)
-
-***
-
-* [Security](security/README.md)
-  * [Binary Exploitation](security/binary-exploitation.md)
