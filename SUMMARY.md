@@ -18,5 +18,7 @@
 
 * [Security](technology/security/README.md)
   * [Binary Exploitation](technology/security/binary-exploitation.md)
+  * [Fix TTY for rev shells](technology/security/fix-tty-for-rev-shells.md)
+  * [Pivoting with Chisel](technology/security/pivoting-with-chisel.md)
 * [Web](technology/web/README.md)
   * [How my site works](technology/web/how-my-site-works.md)
