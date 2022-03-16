@@ -14,6 +14,10 @@
   * [Vanilla Frosting](cannabis/strain-catalogue/vanilla-frosting.md)
   * [Venom OG](cannabis/strain-catalogue/venom-og.md)
 
+## Music
+
+* [Pink Floyd](music/pink-floyd.md)
+
 ## Technology
 
 * [Security](technology/security/README.md)
