@@ -2,10 +2,10 @@
 
 ### SSH
 
-1. Create SSH Tunnel: ssh -D localhost: -f -N user@localhost -p
-2. Setup ProxyChains. Edit the following config file (/etc/proxychains.conf)
-3. Add the following line into the config: Socks5 127.0.0.1
-4. Run commands through the tunnel: proxychains
+1. Create SSH Tunnel: `ssh -D localhost: -f -N user@localhost -p`
+2. Setup ProxyChains. Edit the following config file (`/etc/proxychains.conf`)
+3. Add the following line into the config: `Socks5 127.0.0.1`
+4. Run commands through the tunnel: `proxychains`
 
 ### SShuttle
 
@@ -13,7 +13,7 @@ In Kali
 
 Source: https://github.com/sshuttle/sshuttle
 
-* sshuttle -r root@172.21.0.0 10.2.2.0/24
+* `sshuttle -r root@172.21.0.0 10.2.2.0/24`
 
 ## Meterpreter
 
@@ -21,7 +21,7 @@ Use only if you have a meterpreter shell and you need to pivot to another networ
 
 ### Portfwd
 
-* meterpreter > portfwd add -l 80 -r 172.21.0.0 -p 80
+* `meterpreter > portfwd add -l 80 -r 172.21.0.0 -p 80`
 
 ### Autoroute
 

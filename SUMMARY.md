@@ -23,12 +23,9 @@
   * [Pivoting with Chisel](technology/security/pivoting-with-chisel.md)
   * [SQL Injection Cheatsheet](technology/security/sql-injection-cheatsheet.md)
   * [SSH and Tunneling](technology/security/ssh-and-tunneling.md)
+* [UNIX](technology/unix/README.md)
+  * [Bash prompts](technology/unix/bash-prompts.md)
+  * [Handy HTTP commands](technology/unix/handy-http-commands.md)
+  * [XFCE Theme installation](technology/unix/xfce-theme-installation.md)
 * [Web](technology/web/README.md)
   * [How my site works](technology/web/how-my-site-works.md)
-
-***
-
-* [UNIX](unix/README.md)
-  * [Bash prompts](unix/bash-prompts.md)
-  * [Handy HTTP commands](unix/handy-http-commands.md)
-  * [XFCE Theme installation](unix/xfce-theme-installation.md)
