@@ -8,6 +8,6 @@ Things were going great.  There was sharing and getting anything they could get 
 
 Fast forward to the 1990s.  Internet access was first offered commercially, and the world clamored to get on the “information superhighway".  This is really where we start to go off the rails.  You didn’t need to be at a major university or company that can afford computers the size of rooms to get on the Internet anymore.  People could get online, albeit rather slowly, and start getting emails, browsing the World Wide Web, and relishing in the information age.
 
-Now everyone can get on the web.  Great, right?  Not exactly.  As with most things in life, someone seems to come along and fuck up a good thing.  The Internet was no exception, but this was going to change everything.  Not only was everything shared, but it was also shared for everyone.  As more and more people got online, it was a race to keep the things people *really* wanted private, just that.  And so, it begins...
+Now everyone can get on the web.  Great, right?  Not exactly.  As with most things in life, someone seems to come along and fuck up a good thing.  The Internet was no exception, but this was going to change everything.  Not only was everything shared, but it was also shared for everyone.  As more and more people got online, it was a race to keep the things people *really* wanted private, just that.  And so, it begins ...
 
 ![brains](<../../.gitbook/assets/brains.png>)
