@@ -12,4 +12,4 @@ About 15 years later, my teenage son and his friends were taking high school and
 
 This pretty much sums up my security background.  
 
-* There is a footnote [here](../web/history-of-infosec-and-the-www.md)
+* There is a footnote [here](../web/history-of-infosec-and-www.md)
