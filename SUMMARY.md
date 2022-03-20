@@ -14,12 +14,18 @@
   * [Vanilla Frosting](cannabis/strain-catalogue/vanilla-frosting.md)
   * [Venom OG](cannabis/strain-catalogue/venom-og.md)
 
+## Humor
+
+* [Dad Jokes](humor/dad-jokes.md)
+
 ## Music
 
 * [Pink Floyd](music/pink-floyd.md)
 
 ## Technology
 
+* [Code](technology/code/README.md)
+  * [Perl](technology/code/perl.md)
 * [Security](technology/security/README.md)
   * [Binary Exploitation](technology/security/binary-exploitation.md)
   * [Fix TTY for rev shells](technology/security/fix-tty-for-rev-shells.md)
@@ -34,4 +40,9 @@
 * [Web](technology/web/README.md)
   * [How my site works](technology/web/how-my-site-works.md)
   * [History of infosec and www](technology/web/history-of-infosec-and-www.md)
-  
+
+## Travel
+
+* [Quotes](travel/quotes.md)
+* [Japan](travel/japan.md)
+* [Los Angeles, CA](travel/los-angeles-ca.md)
